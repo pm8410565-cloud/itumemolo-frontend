@@ -75,7 +75,7 @@ const About = () => {
           <div className="location-card">
             <h3>Location Details</h3>
             <p><strong>Address:</strong> {storeInfo.address}</p>
-            <p><strong>Landmark:</strong> Next to Molo Police Station</p>
+            <p><strong>Landmark:</strong> Next to Chara Lodge</p>
             <p><strong>Coordinates:</strong> {storeInfo.location?.latitude}, {storeInfo.location?.longitude}</p>
             <a 
               href={storeInfo.location?.map_url} 

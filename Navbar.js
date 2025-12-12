@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="container">
           <div className="contact-info">
             <FaPhone /> <span>+254 712 345 678</span>
-            <FaMapMarkerAlt /> <span>Molo Town, Nakuru-Eldoret Highway</span>
+            <FaMapMarkerAlt /> <span>Molo Town, Njoro-Molo mausummit road</span>
           </div>
         </div>
       </div>
